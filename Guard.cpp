@@ -1,4 +1,5 @@
 #include <mutex>
+#include "Graph.hpp"
 
 class Guard {
 public:
